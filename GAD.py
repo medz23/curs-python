@@ -13,11 +13,11 @@ my_descending_list.reverse()
 print(my_descending_list)
 
 # Afisare numere cu indici pari din lista folosind slice
-my_even_list = my_list[1::2]
+my_even_list = my_list[0::2]
 print(my_even_list)
 
 # Afisare numere cu indici impari din lista folosind slice
-my_odd_list = my_ascending_list[0::2]
+my_odd_list = my_ascending_list[1::2]
 print(my_odd_list)
 
 # Afisarea elementelor multipli ai lui 3
