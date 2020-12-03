@@ -23,3 +23,4 @@ print(my_odd_list)
 # Afisarea elementelor multipli ai lui 3
 my_multiple_of_3_list = my_ascending_list[2::3]
 print(my_multiple_of_3_list)
+
